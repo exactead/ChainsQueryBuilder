@@ -1,0 +1,12 @@
+D:\internet download\ChainsQueryBuilder\bin\Debug\net6.0\ChainsQueryBuilder.deps.json
+D:\internet download\ChainsQueryBuilder\bin\Debug\net6.0\ChainsQueryBuilder.dll
+D:\internet download\ChainsQueryBuilder\bin\Debug\net6.0\ChainsQueryBuilder.pdb
+D:\internet download\ChainsQueryBuilder\obj\Debug\net6.0\ChainsQueryBuilder.csproj.AssemblyReference.cache
+D:\internet download\ChainsQueryBuilder\obj\Debug\net6.0\ChainsQueryBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\internet download\ChainsQueryBuilder\obj\Debug\net6.0\ChainsQueryBuilder.AssemblyInfoInputs.cache
+D:\internet download\ChainsQueryBuilder\obj\Debug\net6.0\ChainsQueryBuilder.AssemblyInfo.cs
+D:\internet download\ChainsQueryBuilder\obj\Debug\net6.0\ChainsQueryBuilder.csproj.CoreCompileInputs.cache
+D:\internet download\ChainsQueryBuilder\obj\Debug\net6.0\ChainsQueryBuilder.dll
+D:\internet download\ChainsQueryBuilder\obj\Debug\net6.0\refint\ChainsQueryBuilder.dll
+D:\internet download\ChainsQueryBuilder\obj\Debug\net6.0\ChainsQueryBuilder.pdb
+D:\internet download\ChainsQueryBuilder\obj\Debug\net6.0\ref\ChainsQueryBuilder.dll

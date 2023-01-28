@@ -8,6 +8,7 @@ namespace ChainsQueryBuilder
 {
     internal abstract class CreateQuery : ICreateQuery
     {
+#pragma warning disable 8602,8618,8619
         public StringBuilder builder { get; } = new StringBuilder();
         public string tableName { get; }
         public char parameterSymbol { get; }

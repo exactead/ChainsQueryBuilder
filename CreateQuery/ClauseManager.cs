@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ChainsQueryBuilder
 {
+#pragma warning disable 8603,8605
     internal class ClauseManager
     {
         private readonly char parameterSymbol;

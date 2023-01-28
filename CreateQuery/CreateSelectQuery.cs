@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ChainsQueryBuilder
 {
+#pragma warning disable 8619
     internal class CreateSelectQuery : CreateQuery
     {
         ClauseManager manager;

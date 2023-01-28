@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ChainsQueryBuilder
 {
+#pragma warning disable 8618,8625
     public interface IFieldValuePair
     {
         string TableName { get; }

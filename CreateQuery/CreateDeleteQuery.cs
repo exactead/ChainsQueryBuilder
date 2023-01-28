@@ -8,6 +8,7 @@ namespace ChainsQueryBuilder
 {
     internal class CreateDeleteQuery : CreateQuery
     {
+#pragma warning disable 8619
         public CreateDeleteQuery(IEnumerable<IFieldValuePair> pairs, string tableName, char parameterSymbol) : base(pairs, tableName, parameterSymbol)
         {
             var manager = new ClauseManager(tableName, parameterSymbol, valueParameter);

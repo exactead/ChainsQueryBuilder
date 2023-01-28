@@ -19,6 +19,6 @@ namespace ChainsQueryBuilder
         public StringBuilder builder { get; } = new StringBuilder();
         public string tableName => string.Empty;
         public char parameterSymbol => '@';
-        public IDictionary<string, object> valueParameter { get; }
+        public IDictionary<string, object> valueParameter { get; } = new Dictionary<string,object>();
     }
 }

@@ -9,6 +9,7 @@ namespace ChainsQueryBuilder
 {
     internal class CreateUpdateQuery : CreateQuery
     {
+#pragma warning disable 8619
         public CreateUpdateQuery(IEnumerable<IFieldValuePair> pairs, string tableName, char parameterSymbol) 
             : base(pairs, tableName, parameterSymbol)
         {
